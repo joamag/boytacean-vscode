@@ -1,4 +1,4 @@
-# Boytacean VS Code
+# Boytacean VS Code 🧩 + 🕹️
 
 Visual Studio Code extension for Game Boy files.
 
